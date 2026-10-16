@@ -17,3 +17,6 @@ _..._
 _`Huh. That's new. Well, gotta keep safe from the clankers somehow. Just click the checkbox.`_
 
 _And this is where our story begins..._
+
+# Credits
+* OPEN TRACKS (formerly DOVA-SYNDROME): [湖水を見つめて](https://opentracks.com/bgm/detail/18875)
